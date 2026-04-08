@@ -19,7 +19,7 @@ A comprehensive school management system built with MongoDB, Express.js, React, 
 
 ### 📞 Contact Management System
 - ✅ **Complete Contact Form** with backend integration
-- ✅ **Email Notifications** - Users receive confirmation emails from siddheshj077@gmail.com
+- ✅ **Email Notifications** - Users receive confirmation emails from rohitkhobare2005@gmail.com
 - ✅ **Admin Email Alerts** - Admin gets notified of new submissions
 - ✅ Form validation and error handling
 - ✅ Success/error feedback messages
